@@ -1,0 +1,86 @@
+{
+  "Italian": {
+    "Hello": "Ciao!",
+    "Flag": "🇮🇹"
+  },
+  "English": {
+    "Hello": "Hello!",
+    "Flag": "🇬🇧"
+  },
+  "Spanish": {
+    "Hello": "¡Hola!",
+    "Flag": "🇪🇸"
+  },
+  "French": {
+    "Hello": "Bonjour!",
+    "Flag": "🇫🇷"
+  },
+  "German": {
+    "Hello": "Hallo!",
+    "Flag": "🇩🇪"
+  },
+  "Portuguese": {
+    "Hello": "Olá!",
+    "Flag": "🇵🇹"
+  },
+  "Russian": {
+    "Hello": "Привет!",
+    "Flag": "🇷🇺"
+  },
+  "Chinese": {
+    "Hello": "你好!",
+    "Flag": "🇨🇳"
+  },
+  "Japanese": {
+    "Hello": "こんにちは!",
+    "Flag": "🇯🇵"
+  },
+  "Korean": {
+    "Hello": "안녕하세요!",
+    "Flag": "🇰🇷"
+  },
+  "Arabic": {
+    "Hello": "مرحبا!",
+    "Flag": "🇸🇦"
+  },
+  "Hindi": {
+    "Hello": "नमस्ते!",
+    "Flag": "🇮🇳"
+  },
+  "Turkish": {
+    "Hello": "Merhaba!",
+    "Flag": "🇹🇷"
+  },
+  "Dutch": {
+    "Hello": "Hallo!",
+    "Flag": "🇳🇱"
+  },
+  "Greek": {
+    "Hello": "Γειά σου!",
+    "Flag": "🇬🇷"
+  },
+  "Swedish": {
+    "Hello": "Hej!",
+    "Flag": "🇸🇪"
+  },
+  "Polish": {
+    "Hello": "Cześć!",
+    "Flag": "🇵🇱"
+  },
+  "Danish": {
+    "Hello": "Hej!",
+    "Flag": "🇩🇰"
+  },
+  "Finnish": {
+    "Hello": "Moi!",
+    "Flag": "🇫🇮"
+  },
+  "Norwegian": {
+    "Hello": "Hei!",
+    "Flag": "🇳🇴"
+  },
+  "Thai": {
+    "Hello": "สวัสดี!",
+    "Flag": "🇹🇭"
+  }
+}
