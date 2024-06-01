@@ -1,11 +1,12 @@
 import colors from "../assets/colors.json";
+import img from "../assets/pfpImg.jpg";
 function Header() {
   return (
     <>
       <div className="flex justify-center items-center mt-14">
         <div className="grid place-items-center gap-y-4 text-center">
           <img
-            src="src/assets/pfpImg.jpg"
+            src={img}
             className={`size-28 rounded-full p-1 border-2 border-spacing-6 border-[${colors["white-green"]}]`}
             alt=""
             draggable={false}

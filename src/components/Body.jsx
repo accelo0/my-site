@@ -15,7 +15,7 @@ function Body() {
         <div className="absolute flex items-end inset-0 rounded-t-xl border-2 border-gray-400 bg-black opacity-30"></div>
 
         {/* Testo con opacità 100% */}
-        <div className="relative content-center max-w-[530px] z-10 text-white text-base font-montserrat font-semibold mx-6 my-8">
+        <div className="relative content-center md:max-w-[360px] max-w-[530px] z-10 text-white text-base font-montserrat font-semibold mx-6 my-8">
           <p>
             Hello! I’m <span className="font-extrabold">Angelo</span>, a {years}
             -year-old guy from <span>Italy</span>, who has a lot of passions,
