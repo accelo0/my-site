@@ -12,7 +12,7 @@ function Body() {
     <>
       <div className="relative flex mt-10 mx-10 justify-center w-fit h-fit">
         {/* Div con opacità 30% */}
-        <div className="absolute flex items-end inset-0 rounded-t-xl border-2 bg-sky-950 blur-3xl opacity-30"></div>
+        <div className="absolute flex items-end inset-0 rounded-t-xl bg-teal-950 blur-3xl opacity-45"></div>
 
         {/* Testo con opacità 100% */}
         <div className="relative content-center max-w-[630px] z-10 text-white text-base font-montserrat font-semibold mx-6 my-8">
