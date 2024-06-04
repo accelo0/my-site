@@ -10,7 +10,7 @@ function Body() {
   }, []);
   return (
     <>
-      <div className="relative flex mt-10 mx-10 justify-center w-fit h-fit">
+      <div className="relative flex mt-10 mx-8 justify-center w-fit h-fit">
         {/* Div con opacità 30% */}
         <div className="absolute flex items-end inset-0 rounded-t-xl bg-teal-950 blur-3xl opacity-45"></div>
 
@@ -37,7 +37,7 @@ function Body() {
             In my everyday use, I have my <span>MacBook</span>, my{" "}
             <span>iPhone</span>, and my <span>AirPods</span>, especially my
             AirPods that I can’t live without. I spend a lot of time listening
-            to music. Below, I’ll show you the most recent song I listened to.
+            to music.
           </p>
           <p className="mt-8">
             I don’t have extensive experience in coding, but I know{" "}
@@ -45,8 +45,13 @@ function Body() {
             well for vanilla web development. I also like working with{" "}
             <mark>Node.js</mark> for both frontend and backend, and I’m
             currently learning some frameworks like <mark>React</mark>. If
-            you’re interested in my projects, feel free to check them out here
-            (projects link).
+            you’re interested in my projects, feel free to check them out{" "}
+            <a
+              href="https://github.com/accelo0?tab=repositories"
+              className="underline text-green-300 hover:text-green-200"
+            >
+              <i className="fa-solid fa-share-from-square"></i> here
+            </a>
           </p>
         </div>
       </div>

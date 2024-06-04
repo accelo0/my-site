@@ -6,28 +6,28 @@ function Links() {
           <a
             href="https://github.com/accelo0"
             target="_blank"
-            className="cursor-pointer hover:shadow"
+            className="cursor-pointer hover:opacity-30"
           >
             <i className="fa-brands fa-github fa-lg"></i>
           </a>
           <a
             href="https://x.com/aangeloprs"
             target="_blank"
-            className="cursor-pointer hover:shadow"
+            className="cursor-pointer hover:opacity-30"
           >
             <i className="fa-brands fa-twitter fa-lg"></i>
           </a>
           <a
             href="https://www.instagram.com/angelopruscino/"
             target="_blank"
-            className="cursor-pointer hover:shadow"
+            className="cursor-pointer hover:opacity-30"
           >
             <i className="fa-brands fa-instagram fa-lg"></i>
           </a>
           <a
             href="mailto:angeloprs.dev@icloud.com"
             target="_blank"
-            className="cursor-pointer hover:shadow"
+            className="cursor-pointer hover:opacity-30"
           >
             <i className="fa-solid fa-envelope fa-lg"></i>
           </a>
